@@ -4,14 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20ZS!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
 Hi there 👋,I'm ZS.
-
+- 😄 I am now NanJing Argiculutre University Student 
 - 🔭 My research interests include lightweight semantic segmentation, image super-resolution, medical image processing, LLM and  plant phenotyping analysis.
 - 📫 How to reach me: zs@stu.njau.edu.cn
 - 😄 Read more about my blog: [here]([ZSの博客 - 荒岛 (zsspce.top)](https://zsspce.top/))
-
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
-
-
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
