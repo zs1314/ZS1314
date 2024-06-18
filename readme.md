@@ -5,7 +5,7 @@
 </p>
 Hi there 👋,I'm ZS.
 
-- 🔭 My research interests include lightweight semantic segmentation, plant phenotyping analysis, image super-resolution, and medical image processing, LLM.
+- 🔭 My research interests include lightweight semantic segmentation, image super-resolution, medical image processing, LLM and  plant phenotyping analysis.
 - 📫 How to reach me: zs@stu.njau.edu.cn
 - 😄 Read more about my blog: [here]([ZSの博客 - 荒岛 (zsspce.top)](https://zsspce.top/))
 
@@ -47,7 +47,7 @@ Hi there 👋,I'm ZS.
 </p>
 <!-- https://github.com/kyechan99/capsule-render -->
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
