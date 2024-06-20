@@ -4,7 +4,7 @@
 
 Hi there 👋, I'm ZS.
 - 😄 I am now a student at Nanjing Agricultural University.
-- 🔭 My research interests include lightweight semantic segmentation, image super-resolution, medical image processing, LLM, and plant phenotyping analysis.
+- 🔭 My research interests include lightweight semantic segmentation, medical image processing, LLM, and plant phenotyping analysis.
 - 📫 How to reach me: zs@stu.njau.edu.cn
 - 😄 Read more about my blog: [ZSの博客 - 荒岛](https://zsspce.top/)
 
